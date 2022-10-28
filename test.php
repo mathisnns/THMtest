@@ -1,5 +1,1 @@
-<?php
-
-echo "my super PHP file";
-
-?>
+test test
